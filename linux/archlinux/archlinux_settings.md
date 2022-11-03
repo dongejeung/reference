@@ -43,6 +43,8 @@ google-chrome stable 설치.
  pacman package list :
 vlc => for video 
 gdm => for font
+clipgrab => for video download for example youtube video
+(cf. youtubedl)
 
  aur repo : https://aur.archlinux.org/
 download with above site and install with command makepkg -si(for deps)
