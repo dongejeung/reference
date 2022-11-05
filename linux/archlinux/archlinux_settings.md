@@ -46,6 +46,8 @@ gdm => for font
 clipgrab => for video download for example youtube video
 (cf. youtubedl)
 emacs => IDE 
+dnf
+
 
  aur repo : https://aur.archlinux.org/
 download with above site and install with command makepkg -si(for deps)
@@ -71,8 +73,20 @@ alias goa='sudo vim ~/.bash_aliases'
 alias pf='ps -ef | grep $1'
 
 
+vmware :
+Download VMware-Player-Full-16.2.4-20089737.x86_64.bundle
+sudo sh *.bundle
+dir => /etc/init.d
+sudo pacman -S linux-headers
 
--------
+vmmon
+vmnet
+없다고 오류
+dnf kernel-devel 추천
+sudo pacman -S dnf
+  
+
+------
 To-Do : 기본적인 linux command 와 시스템 구조에 대한 이해가 필요함!!
  HKKB 키보드, EMACS 숙련 필요!!!
  
