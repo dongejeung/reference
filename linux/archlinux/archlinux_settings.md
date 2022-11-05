@@ -40,18 +40,37 @@ edit local.conf with xml
 google-chrome stable 설치.   
 
 
- pacman package list :
+pacman package list :
 vlc => for video 
 gdm => for font
 clipgrab => for video download for example youtube video
 (cf. youtubedl)
+emacs => IDE 
 
  aur repo : https://aur.archlinux.org/
 download with above site and install with command makepkg -si(for deps)
 
 
- git clone :
+git clone :
 D2fonts > open with file browser & execute
+
+
+edit bashrc & bash_aliases
+
+bashrc : 
+if [ -f ~/.bash_aliases ]; then
+    . ~/.bash_aliases
+fi
+
+bash_aliases : 
+alias ll='ls -l'
+alias la='ls -al'
+
+alias bashrc='source ~/.bashrc'
+alias goa='sudo vim ~/.bash_aliases'
+alias pf='ps -ef | grep $1'
+
+
 
 -------
 To-Do : 기본적인 linux command 와 시스템 구조에 대한 이해가 필요함!!
