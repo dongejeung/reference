@@ -34,6 +34,17 @@ add user
 desktop > gnome > nvidia prioraty? spell 헷갈림. 
 use networkmanager
 
+
+settings :
+gnome extension :
+https://extensions.gnome.org/
+recommendation of gnome extension :
+vitals
+openweather
+
+
+
+
 locale set ko_KR.UTF-8
 pacman -S terminus-font noto-fonts-cjk ttf-dejavu
 edit local.conf with xml 
@@ -48,6 +59,8 @@ clipgrab => for video download for example youtube video
 emacs => IDE 
 dnf
 jdk17-openjdk
+xdotool
+lxpanel
 
 
 aur repo : https://aur.archlinux.org/
