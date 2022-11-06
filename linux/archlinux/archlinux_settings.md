@@ -47,6 +47,7 @@ clipgrab => for video download for example youtube video
 (cf. youtubedl)
 emacs => IDE 
 dnf
+jdk17-openjdk
 
 
  aur repo : https://aur.archlinux.org/
