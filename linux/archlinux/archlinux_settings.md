@@ -50,8 +50,17 @@ dnf
 jdk17-openjdk
 
 
- aur repo : https://aur.archlinux.org/
+aur repo : https://aur.archlinux.org/
 download with above site and install with command makepkg -si(for deps)
+eclipse-jee 2:4.25-1 => lastest now 
+
+git clone https://aur.archlinux.org/snapd.git
+cd snapd
+makepkg -si
+sudo systemctl enable --now snapd.socket
+sudo ln -s /var/lib/snapd/snap /snap
+sudo snap install eclipse --classic
+
 
 
 git clone :
