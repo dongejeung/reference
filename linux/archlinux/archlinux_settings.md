@@ -61,6 +61,8 @@ dnf
 jdk17-openjdk
 xdotool
 lxpanel
+man
+
 
 
 aur repo : https://aur.archlinux.org/
@@ -109,7 +111,16 @@ dnf kernel-devel 추천
 sudo pacman -S dnf
   
 
-------
-To-Do : 기본적인 linux command 와 시스템 구조에 대한 이해가 필요함!!
- HKKB 키보드, EMACS 숙련 필요!!!
- 
+xdotool : linux macro
+
+move workspace :
+xdotool get_desktop : get workspace num
+xdotool set_desktop n : move workspace n
+set_desktop_for_window : xdotool getactivewindow set_desktop_for_window 0
+
+
+
+
+
+
+
