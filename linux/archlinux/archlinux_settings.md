@@ -62,6 +62,7 @@ jdk17-openjdk
 xdotool
 lxpanel
 man
+zsh
 
 
 
@@ -119,8 +120,25 @@ xdotool set_desktop n : move workspace n
 set_desktop_for_window : xdotool getactivewindow set_desktop_for_window 0
 
 
+oh my zsh : 
+sudo pacman -S zsh
+touch ~/.zshrc
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+zsh plugin :
+autousggestions
+
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 
 
+edit ~/.zshrc
+plugins=(git zsh-autosuggestions sudo web-search iterm2 docker zsh-syntax-highlighti    ng copydir copyfile copybuffer dirhistory zsh_reload history jsontools alias-tips)
+
+
+alias-tips :
+cd ~/.oh-my-zsh/plugins
+git clone https://github.com/djui/alias-tips.git
+export ZSH_PLUGINS_ALIAS_TIPS_TEXT="Alias tip: "
 
 
 
