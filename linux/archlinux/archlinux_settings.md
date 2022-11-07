@@ -110,6 +110,12 @@ vmnet
 없다고 오류
 dnf kernel-devel 추천
 sudo pacman -S dnf
+
+
+virtualbox :
+vmware 대용으로 설치
+https://www.virtualbox.org/wiki/Downloads
+extension pack Download
   
 
 xdotool : linux macro
