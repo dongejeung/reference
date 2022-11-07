@@ -116,6 +116,11 @@ virtualbox :
 vmware 대용으로 설치
 https://www.virtualbox.org/wiki/Downloads
 extension pack Download
+https://download.virtualbox.org/virtualbox/7.0.2/
+download guestadditions & add odd 
+active window top bar > view > fix guest display 
+virtualbox > preference > display graphic controller > VBoxVGA(for resize fixel)
+
   
 
 xdotool : linux macro
