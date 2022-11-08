@@ -81,6 +81,13 @@ https://www.eclipse.org/downloads/
 ver : eclipse-jee-2022-09-R-linux-gtk-x86_64.tar.gz
 theme : planet-themes => dark
 font : basic D2coding bold
+plugin : vrapper(for vim style)
+etc : error when open .md file.
+=> so can't open eclipse 
+=> sudo pacman -S webkit2gtk
+
+
+
 
 
 
