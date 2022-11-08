@@ -171,5 +171,9 @@ https://dbeaver.com/docs/wiki/Optional-extensions/
 enrole startup scripts : 시작 프로그램 등록하기.
 /etc/init.d/
 위의 경로에 .sh 파일 넣어두면 된다고 함.
+위에 꺼 말고
+~/.config/autostart/*
+에 넣어두고 권한 설정하면 된다고 함.
+
 
 
