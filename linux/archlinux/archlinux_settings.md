@@ -76,6 +76,11 @@ makepkg -si
 sudo systemctl enable --now snapd.socket
 sudo ln -s /var/lib/snapd/snap /snap
 sudo snap install eclipse --classic
+위의 내용 말고 걍 이클립스 사이트가서 노설치 버전 받을란다.
+https://www.eclipse.org/downloads/
+ver : eclipse-jee-2022-09-R-linux-gtk-x86_64.tar.gz
+theme : planet-themes => dark
+font : basic D2coding bold
 
 
 
@@ -150,6 +155,17 @@ alias-tips :
 cd ~/.oh-my-zsh/plugins
 git clone https://github.com/djui/alias-tips.git
 export ZSH_PLUGINS_ALIAS_TIPS_TEXT="Alias tip: "
+
+
+dbeaver :
+Download main site
+change theme dark. font D2coding
+plugin > Vrapper(chg vim pattern)
+http://vrapper.sourceforge.net/update-site/stable
+아이 위에꺼 설치 에러 나잖아
+https://dbeaver.com/docs/wiki/Optional-extensions/
+아 디비버는 걍 쓰자 귀찮아서 진짜 
+
 
 
 
