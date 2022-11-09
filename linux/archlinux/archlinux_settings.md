@@ -63,7 +63,7 @@ xdotool
 lxpanel
 man
 zsh
-
+ripgrep : enhanced grep
 
 
 aur repo : https://aur.archlinux.org/
