@@ -84,6 +84,10 @@ font : basic D2coding bold
 plugin : vrapper(for vim style)
 etc : error when open .md file.
 => so can't open eclipse 
+=> when use eclipse vrapper > content assistant short key is C-/
+
+
+
 => sudo pacman -S webkit2gtk
 
 
@@ -147,6 +151,9 @@ oh my zsh :
 sudo pacman -S zsh
 touch ~/.zshrc
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+PATH : $ZSH => ~/.oh-my-zsh
+>>> plugin
+
 
 zsh plugin :
 autousggestions
@@ -156,6 +163,40 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 
 edit ~/.zshrc
 plugins=(git zsh-autosuggestions sudo web-search iterm2 docker zsh-syntax-highlighti    ng copydir copyfile copybuffer dirhistory zsh_reload history jsontools alias-tips)
+
+zsh-autosuggestions : use tab > tab select suggestion
+
+sudo : command + esc * 2
+
+web-search : https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/web-search/web-search.plugin.zsh
+> go zsh's plugin path i can edit plugin code maybe
+
+copydir : type copydir
+> copy current path to system clipboard
+(but it doesn't work in my zsh)
+
+copybuffer : also doesn't work in my zsh
+
+dirhistory : https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/dirhistory
+M(alt) + direct key
+left : previous dir
+right : next directory
+up : parent dir
+down : first child dir by alphabetical order
+
+history :
+h : history
+hs hisotry | grep
+hsi : history | grep i
+
+jsontools : response json + | pp_json
+pp_json : pretty prints.
+is_json : returns true if valid json; false otherwise.
+urlencode_json : returns a url encoded string for the given json.
+urldecode_json : returns decoded json for the given url encoded string.
+
+
+
 
 
 alias-tips :
