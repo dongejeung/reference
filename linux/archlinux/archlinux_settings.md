@@ -41,7 +41,8 @@ https://extensions.gnome.org/
 recommendation of gnome extension :
 vitals
 openweather
-
+display scale changeble in gnome GUI =>
+gsettings set org.gnome.mutter experimental-features "['scale-monitor-framebuffer']"
 
 
 
