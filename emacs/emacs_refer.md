@@ -13,7 +13,7 @@ set Hangle(GUI emacs)
 
  
 Settings : in editor
-alt-x > customize
+M-x > customize
 
 
 Cursor move :
@@ -163,5 +163,16 @@ M 키의 입력이 한 글자 덜 쳐서 편할 것 같지만, 사실상 10회 �
 
 - 야임마 buffer 를 사이칸 저장을 갈무리로 번역하는 것은 번역기를 돌린 것인 것인가.. ㅋㅋㅋㅋ
 
+
+cf) 죽이기는 kill, 삭제는 delete 이다.
+
+C-SPC cursor move C-w : 범위 죽이기.
+C-x C-f : find file. (use tab to autocomplete)
+C-x b : chg buffer
+C-x C-b : show buffer list
+C-x s : save some buffer
+C-x C-s : save buffer
+
+- short key 가 영어 단어와 관련이 있다는 것을 염두해두면 암기하기가 쉽다.
 
 
