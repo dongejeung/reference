@@ -51,6 +51,7 @@ C-_ : C-/ 와 같은 작용
 M-x replace-string(repl s<TAB>) : 전역으로 문자치환.
 (현재 커서 위치부터 끝까지 바꾼다.)
 
+
 ## 탐색 브라우저
 C-x C-f : 파일 찾기
 C-x C-s : 파일 저장
@@ -87,8 +88,22 @@ cf) 모드는 메이저 모드, 마이너 모드가 있음.
 
 
 MULTIPLE WINDOWS
+C-M-v to scroll the bottom window
+C-x o(other) move cursor other window
 
 
 
+...
+M-x customize-themes
+M-x package-install RET modus-themes RET
+M-x load-theme RET modus-vivendi RET
+
+Java settings
+M-x package-install use-package
+M-x package-install lsp-java
+M-x package-install dash
+야이씨 안되잖아.. ㅋㅋㅋㅋ
+
+https://xpressrazor.wordpress.com/2020/11/04/java-programming-in-emacs/
 
 

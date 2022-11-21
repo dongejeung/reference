@@ -176,3 +176,21 @@ C-x C-s : save buffer
 - short key 가 영어 단어와 관련이 있다는 것을 염두해두면 암기하기가 쉽다.
 
 
+chg theme
+in scratch
+(load-theme 'tango-dark)
+C-x C-e
+
+
+# emacs 로 개발환경 구축하기
+https://panty.run/lisp-devel-with-emacs/
+
+# 오픈소스SW 라이선스 종합정보시스템
+https://www.olis.or.kr/
+
+git clone https://aur.archlinux.org/clisp-git.git
+makepkg -si
+
+slime mode 실행시 에러 발생
+
+

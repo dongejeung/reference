@@ -1,1 +1,1101 @@
 기존 브라우저 세션에서 여는 중입니다.
+[2374:2374:1114/140832.794018:ERROR:gl_utils.cc(319)] [.RendererMainThread-0x1ee000324d00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[2374:2374:1114/140832.795353:ERROR:gl_utils.cc(319)] [.RendererMainThread-0x1ee00173aa00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[2374:2374:1114/140832.798337:ERROR:gl_utils.cc(319)] [.RendererMainThread-0x1ee000366200]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[2374:2374:1114/140832.798945:ERROR:gl_utils.cc(319)] [.RendererMainThread-0x1ee000324d00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels (this message will no longer repeat)
+[2305:2305:1114/140833.730913:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.ScreenSaver.GetActive: object_path= /org/freedesktop/ScreenSaver: org.freedesktop.DBus.Error.NotSupported: This method is not implemented
+
+(google-chrome:2305): Gdk-WARNING **: 14:08:34.056: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 14:10:14.529: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 14:10:15.849: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 14:10:15.954: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 14:10:16.044: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 14:10:16.149: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 14:10:16.239: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 14:10:16.376: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 14:10:16.510: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 14:10:16.514: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 14:10:16.614: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 14:10:16.989: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 14:10:17.139: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 14:10:17.889: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 14:10:18.084: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 14:10:18.459: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 14:10:18.639: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 14:10:18.699: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 14:10:18.759: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 14:10:18.969: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 14:19:30.851: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 14:19:30.853: gdk_window_set_user_time called on non-toplevel
+
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+
+(google-chrome:2305): Gdk-WARNING **: 14:20:11.939: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 14:22:22.540: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 14:22:22.600: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 14:22:22.750: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 14:22:22.780: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 14:22:23.605: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 14:22:23.695: gdk_window_set_user_time called on non-toplevel
+
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:53.606: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:54.789: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:54.849: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:54.954: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:55.014: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:55.134: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:55.224: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:55.226: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:55.359: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:55.764: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:55.884: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:56.019: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:56.139: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:56.229: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:56.364: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:56.499: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:56.574: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:56.649: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:56.949: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:57.069: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:57.204: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:57.354: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:57.549: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:57.939: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:57.999: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:58.134: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:58.224: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:58.314: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:26:58.794: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:27:02.694: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:27:02.799: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:27:02.919: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:27:03.024: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:27:03.129: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:27:03.219: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:27:03.324: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:27:03.429: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:27:03.489: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:27:03.594: gdk_window_set_user_time called on non-toplevel
+
+Fontconfig error: Cannot load default config file: No such file: (null)
+
+(google-chrome:2305): Gdk-WARNING **: 15:27:06.932: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:27:08.379: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:27:08.829: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:27:09.669: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:27:09.789: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:27:10.479: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:27:10.644: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:27:10.779: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:27:11.229: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:28:45.782: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:28:45.782: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:32:11.302: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:32:11.517: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:32:11.606: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:32:12.011: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:32:12.431: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:32:12.566: gdk_window_set_user_time called on non-toplevel
+
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+
+(google-chrome:2305): Gdk-WARNING **: 15:33:35.307: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:33:35.382: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:33:36.087: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:33:36.432: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:33:36.492: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:33:36.612: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:33:36.747: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:33:36.852: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:33:37.077: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:33:38.277: gdk_window_set_user_time called on non-toplevel
+
+Fontconfig error: Cannot load default config file: No such file: (null)
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Fontconfig error: Cannot load default config file: No such file: (null)
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+
+(google-chrome:2305): Gdk-WARNING **: 15:39:02.998: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:39:05.129: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:48:59.821: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:49:00.151: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:49:00.286: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:49:00.392: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:49:00.526: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:49:01.351: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:49:01.516: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:49:01.711: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:49:01.817: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:49:01.921: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:49:02.236: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:49:02.461: gdk_window_set_user_time called on non-toplevel
+
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+
+(google-chrome:2305): Gdk-WARNING **: 15:52:25.112: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:52:25.261: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:52:25.382: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:52:26.792: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:52:27.227: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:52:27.392: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:52:27.737: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:52:27.857: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:52:28.547: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:52:28.712: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:52:41.859: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:52:42.512: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:52:42.572: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:52:43.157: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:52:43.352: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:52:43.427: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:52:43.487: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 15:52:43.652: gdk_window_set_user_time called on non-toplevel
+
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+
+(google-chrome:2305): Gdk-WARNING **: 16:00:04.248: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:00:04.323: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:00:04.668: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:00:04.893: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:00:05.133: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:02:20.689: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:02:20.793: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:02:21.229: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:02:21.393: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:07:46.445: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:07:46.550: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:19:44.452: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:19:44.587: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:19:45.142: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:19:48.092: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:20:00.307: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:20:00.427: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:20:02.498: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:27:48.580: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:27:49.284: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:27:49.374: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:27:49.433: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:27:49.749: gdk_window_set_user_time called on non-toplevel
+
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+
+(google-chrome:2305): Gdk-WARNING **: 16:38:05.290: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:38:06.070: gdk_window_set_user_time called on non-toplevel
+
+Fontconfig error: Cannot load default config file: No such file: (null)
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+
+(google-chrome:2305): Gdk-WARNING **: 16:57:51.252: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:57:51.252: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:57:51.372: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:57:53.667: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:57:57.411: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:57:59.787: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:57:59.907: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:58:01.137: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:58:01.467: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:58:01.632: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:58:01.812: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:58:01.947: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:58:02.322: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:58:02.653: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:58:03.552: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:58:05.097: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:58:05.322: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:58:05.517: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:58:06.267: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:58:06.732: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:58:07.032: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:58:07.272: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 16:58:08.697: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 17:19:47.491: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 17:19:47.492: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 17:19:49.861: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 17:19:50.041: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 17:19:50.611: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 17:20:29.866: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 17:20:30.031: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 17:51:20.788: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 17:51:20.932: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 17:51:21.967: gdk_window_set_user_time called on non-toplevel
+
+Fontconfig error: Cannot load default config file: No such file: (null)
+[2305:2305:1114/175206.878992:ERROR:interface_endpoint_client.cc(690)] Message 0 rejected by interface blink.mojom.WidgetHost
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+
+(google-chrome:2305): Gdk-WARNING **: 18:03:59.919: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:01.119: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:01.314: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:02.229: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:04.421: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:05.965: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:06.024: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:06.174: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:06.354: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:06.924: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:07.419: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:08.094: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:08.755: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:08.904: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:09.040: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:09.189: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:09.385: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:09.504: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:10.044: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:17.710: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:18.519: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:18.699: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:18.804: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:18.940: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:19.059: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:19.224: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:19.344: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:19.494: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:19.900: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:20.049: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:20.154: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:23.324: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:23.544: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:24.249: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:24.340: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:25.285: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:25.599: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:25.929: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:26.304: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:27.054: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:27.129: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:27.295: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:28.570: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:29.665: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:30.114: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:30.505: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:30.655: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:30.819: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:32.020: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:32.830: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:33.295: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:34.000: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:34.675: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:35.170: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:35.905: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:36.730: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:37.135: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:37.494: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:38.035: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:38.545: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:39.460: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:04:39.805: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:12:40.895: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:12:40.895: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:14:18.206: gdk_window_set_user_time called on non-toplevel
+
+[2375:2381:1114/181444.115837:ERROR:socket_manager.cc(138)] Failed to resolve address for aa.online-metrix.net., errorcode: -105
+[41070:26:1114/181444.270366:ERROR:stun_port.cc(99)] Binding error response: class=4 number=1 reason=Unauthorized
+[41070:26:1114/181454.423882:ERROR:stun_port.cc(99)] Binding error response: class=4 number=1 reason=Unauthorized
+[41070:26:1114/181504.566179:ERROR:stun_port.cc(99)] Binding error response: class=4 number=1 reason=Unauthorized
+[41070:26:1114/181514.705397:ERROR:stun_port.cc(99)] Binding error response: class=4 number=1 reason=Unauthorized
+
+(google-chrome:2305): Gdk-WARNING **: 18:15:21.725: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:15:22.767: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:15:23.922: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:15:24.072: gdk_window_set_user_time called on non-toplevel
+
+[41070:26:1114/181524.846014:ERROR:stun_port.cc(99)] Binding error response: class=4 number=1 reason=Unauthorized
+
+(google-chrome:2305): Gdk-WARNING **: 18:15:25.092: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:15:25.227: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:15:28.411: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:15:29.292: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:15:32.418: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:15:32.472: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:15:32.591: gdk_window_set_user_time called on non-toplevel
+
+[41070:26:1114/181534.986889:ERROR:stun_port.cc(99)] Binding error response: class=4 number=1 reason=Unauthorized
+
+(google-chrome:2305): Gdk-WARNING **: 18:15:36.708: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:15:37.167: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:15:37.317: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:15:37.827: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:15:38.127: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:15:38.697: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:20:22.258: gdk_window_set_user_time called on non-toplevel
+
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+
+(google-chrome:2305): Gdk-WARNING **: 18:23:49.588: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:23:49.663: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:23:50.053: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:23:50.188: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:23:50.608: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:23:53.233: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:23:53.909: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:23:54.374: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:23:58.183: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:23:58.288: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:23:58.558: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:24:57.804: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:24:57.805: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:24:58.304: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:01.581: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:01.664: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:01.919: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:01.934: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:02.414: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:04.769: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:04.829: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:04.949: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:05.084: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:05.369: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:05.474: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:05.593: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:05.713: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:05.893: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:05.984: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:06.044: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:06.089: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:06.253: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:07.754: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:07.859: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:07.995: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:28.784: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:28.889: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:29.219: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:29.249: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:29.459: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:29.834: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:29.894: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:30.029: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:31.139: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:32.114: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:32.774: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:25:32.954: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:28:06.644: gdk_window_set_user_time called on non-toplevel
+
+Fontconfig error: Cannot load default config file: No such file: (null)
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Fontconfig error: Cannot load default config file: No such file: (null)
+
+(google-chrome:2305): Gdk-WARNING **: 18:55:17.454: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:55:18.199: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:55:18.274: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:55:27.034: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:55:27.063: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:55:27.634: gdk_window_set_user_time called on non-toplevel
+
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+
+(google-chrome:2305): Gdk-WARNING **: 18:56:51.781: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:56:52.039: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 18:56:53.329: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 19:05:38.047: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 19:05:40.190: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 19:05:40.700: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 19:05:41.210: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 19:05:41.300: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 19:05:41.360: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 19:05:42.006: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 19:05:42.200: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 19:05:42.336: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 19:05:43.490: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 19:05:43.610: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 19:05:43.715: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 19:05:44.525: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 19:05:44.825: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 19:05:44.900: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 19:05:44.931: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 19:05:45.065: gdk_window_set_user_time called on non-toplevel
+
+
+(google-chrome:2305): Gdk-WARNING **: 19:05:45.290: gdk_window_set_user_time called on non-toplevel
+
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+Error in cpuinfo: failed to parse processor information from /proc/cpuinfo
+[2305:2305:1114/215713.873473:ERROR:zygote_communication_linux.cc(275)] Failed to send GetTerminationStatus message to zygote
+[2305:2305:1114/215713.875165:ERROR:zygote_communication_linux.cc(275)] Failed to send GetTerminationStatus message to zygote
+[2305:2305:1114/215713.876572:ERROR:zygote_communication_linux.cc(275)] Failed to send GetTerminationStatus message to zygote
+[2305:2305:1114/215713.877683:ERROR:zygote_communication_linux.cc(275)] Failed to send GetTerminationStatus message to zygote
+[2305:2305:1114/215713.878861:ERROR:zygote_communication_linux.cc(275)] Failed to send GetTerminationStatus message to zygote
+[2305:2305:1114/215713.879741:ERROR:zygote_communication_linux.cc(275)] Failed to send GetTerminationStatus message to zygote
+[2305:2305:1114/215713.883058:ERROR:network_service_instance_impl.cc(513)] Network service crashed, restarting service.
+[2305:2305:1114/215713.898952:ERROR:zygote_communication_linux.cc(275)] Failed to send GetTerminationStatus message to zygote
+[2305:2305:1114/215713.904474:ERROR:zygote_communication_linux.cc(275)] Failed to send GetTerminationStatus message to zygote
+[2305:2305:1114/215713.908184:ERROR:zygote_communication_linux.cc(275)] Failed to send GetTerminationStatus message to zygote
+[2305:2305:1114/215713.913595:ERROR:zygote_communication_linux.cc(275)] Failed to send GetTerminationStatus message to zygote
+[2305:2305:1114/215713.916116:ERROR:zygote_communication_linux.cc(275)] Failed to send GetTerminationStatus message to zygote
+[2305:2305:1114/215713.918017:ERROR:zygote_communication_linux.cc(275)] Failed to send GetTerminationStatus message to zygote
+[2305:2305:1114/215713.921204:ERROR:zygote_communication_linux.cc(275)] Failed to send GetTerminationStatus message to zygote
+[2305:2305:1114/215713.931403:ERROR:gpu_process_host.cc(965)] GPU process launch failed: error_code=1002
+[2305:2305:1114/215713.933004:ERROR:gpu_process_host.cc(965)] GPU process launch failed: error_code=1002
+[2305:2305:1114/215713.933525:ERROR:gpu_process_host.cc(965)] GPU process launch failed: error_code=1002
+[2305:2305:1114/215713.933968:ERROR:gpu_process_host.cc(965)] GPU process launch failed: error_code=1002
+[2305:2305:1114/215713.934441:ERROR:gpu_process_host.cc(965)] GPU process launch failed: error_code=1002
+[2305:2305:1114/215713.934910:ERROR:gpu_process_host.cc(965)] GPU process launch failed: error_code=1002
+[2305:2305:1114/215713.935280:ERROR:gpu_process_host.cc(965)] GPU process launch failed: error_code=1002
+[2305:2305:1114/215713.935680:ERROR:gpu_process_host.cc(965)] GPU process launch failed: error_code=1002
+[2305:2305:1114/215713.936034:ERROR:gpu_process_host.cc(965)] GPU process launch failed: error_code=1002
+[2305:2305:1114/215713.937644:ERROR:gpu_process_host.cc(965)] GPU process launch failed: error_code=1002
+[2305:2305:1114/215713.938089:ERROR:gpu_process_host.cc(965)] GPU process launch failed: error_code=1002
+[2305:2305:1114/215713.938601:ERROR:gpu_process_host.cc(965)] GPU process launch failed: error_code=1002
+[2305:2305:1114/215713.938607:FATAL:gpu_data_manager_impl_private.cc(440)] GPU process isn't usable. Goodbye.
+[1114/215713.943868:ERROR:elf_dynamic_array_reader.h(64)] tag not found
+[1114/215713.944636:ERROR:elf_dynamic_array_reader.h(64)] tag not found
+[1114/215713.944670:ERROR:elf_dynamic_array_reader.h(64)] tag not found
