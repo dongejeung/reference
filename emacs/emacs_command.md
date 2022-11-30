@@ -107,3 +107,13 @@ M-x package-install dash
 https://xpressrazor.wordpress.com/2020/11/04/java-programming-in-emacs/
 
 
+M-! : run shell  
+
+gcc exec_name.cpp -o exec_name
+: compile C file
+
+./exec_name
+: run C file
+
+M-x cd : chg default path
+
